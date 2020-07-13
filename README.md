@@ -1,2 +1,2 @@
 # Prueba-Data-pipeline
-Prueba técnica sobre le diseño de un Data pipeline
+Prueba técnica sobre el diseño de un Data pipeline
